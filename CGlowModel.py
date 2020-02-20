@@ -173,7 +173,6 @@ class CondGlowModel(nn.Module):
             mean, logs = self.prior()
             objective += modules.GaussianDiag.logp(mean, logs, z)
             nll = -objective / float(np.log(2.) * dimensions)
-            nll = - objective / dimensions
             return z, nll
 
         else:
