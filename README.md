@@ -20,8 +20,8 @@ This code was tested using the the following libraries.
 - Download the dataset from [here](https://www.msri.org/people/members/eranb/).
 - Rename the forlders */rgb* and */figure_ground* to be */images*, and */labels*, respectively.
 - Within the same folder, create files *train.txt*, *valid.txt*, and *test.txt*, which contain the names of images for training, validation, and test, respectively.
-- Configure dataset root and output root in the shell script file.
-- In the terminal, run *./train_cglow.sh*.
+- Configure the parameters in the shell script *train_cglow.sh*
+- In the terminal, run *./train_cglow.sh*
 
 ## Contact
 Feel free to send me an email, if you have any questions or comments.
