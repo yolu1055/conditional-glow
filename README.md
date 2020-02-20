@@ -4,7 +4,7 @@ This code is a Python implementation of the conditional-Glow introduced in the p
 
 "[Structured Output Learning with Conditional Generative Flows](https://arxiv.org/pdf/1905.13288.pdf)". You Lu and Bert Huang. AAAI 2020.
 
-Note: This code is used for the experiments of binary-segmentation on [Weizmann Horse dataset](https://www.msri.org/people/members/eranb/). Some parts of the code are adapted from [chaiyujin](https://github.com/chaiyujin/glow-pytorch), and [openai](https://github.com/openai/glow). 
+Note: This code is used for the experiments of binary-segmentation on the Weizmann Horse dataset. Some parts of the code are adapted from [chaiyujin](https://github.com/chaiyujin/glow-pytorch), and [openai](https://github.com/openai/glow). 
 
 ## Requirements:
 
