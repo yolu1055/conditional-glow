@@ -1,4 +1,4 @@
-## Conditional-Glow
+# Conditional-Glow
 
 This code is a Python implementation of the conditional-Glow introduced in the paper 
 
