@@ -14,6 +14,7 @@ This code was tested using the the following libraries.
 - Numpy 1.14.6
 - Pytorch 1.2.0
 - Pillow 5.3.0
+- skimage 0.16.2
 
 ## Running
 
